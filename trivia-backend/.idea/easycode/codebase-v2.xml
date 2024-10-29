@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/trivia-backend/src/main/java/com/br/trivia/trivia_backend/controller/PerguntaController.java;D:/trivia-backend/trivia-backend/src/main/java/com/br/trivia/trivia_backend/model/Pergunta.java;D:/trivia-backend/trivia-backend/src/main/java/com/br/trivia/trivia_backend/repository/PerguntaRepository.java;D:/trivia-backend/trivia-backend/src/main/java/com/br/trivia/trivia_backend/TriviaBackendApplication.java;D:/trivia-backend/trivia-backend/src/test/java/com/br/trivia/trivia_backend/TriviaBackendApplicationTests.java;D:/trivia-backend/trivia-backend/pom.xml" />
+  </component>
+</project>
